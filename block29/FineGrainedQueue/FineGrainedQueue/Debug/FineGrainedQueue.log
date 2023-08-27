@@ -1,0 +1,3 @@
+﻿  FineGrainedQueue.cpp
+C:\Users\1\Desktop\FineGrainedQueue\FineGrainedQueue\FineGrainedQueue.cpp(47): warning C4715: FineGrainedQueue::find: значение возвращается не при всех путях выполнения
+  FineGrainedQueue.vcxproj -> C:\Users\1\Desktop\FineGrainedQueue\Debug\FineGrainedQueue.exe
